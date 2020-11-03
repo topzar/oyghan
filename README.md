@@ -1,9 +1,11 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=oyghan&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+<h3 align="center">👋 Hello! I'm oyghan.</h3>
 
-### Hello 👋
+<p align="center">
+  🇨🇳 China Beijing・🕹 Web developer
+  <a href="https://learnfans.com" target="_blank">@Learnfans</a> 
+</p>
 
-> Stay hungry, stay foolish.
-
-🇨🇳 China Beijing・🕹 Web developer 
-
-https://learnfans.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oyghan&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default" style="width: 58%; max-width: 58%; min-width: 58%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyghan&layout=compact&count_private=true&theme=default" style="width: 40%; max-width: 40%; min-width: 40%;">
+</p>
